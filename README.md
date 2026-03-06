@@ -1,8 +1,10 @@
 # Unity Game Developer
+
 #### Technical Skills: Unity, C#, Git
+
 ## Education							       		
 - M.S., Software Engineering | FPT School of Business & Technology (_November 2025_)	 			        		
-- B.S., Software Engineering | FPT University Ho Chi Minh (_February 2023_)
+- B.S., Software Engineering | FPT University Ho Chi Minh City (_February 2023_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
