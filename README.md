@@ -15,6 +15,7 @@ Developed an interactive blogging platform that delivers a dynamic and responsiv
 
 - **Role:** Front End Developer
 - **Responsibilities:**
+
   - Contributed to the development of a robust blogging platform built on Spring Boot.
   - Developed and styled dynamic UI elements using HTML, CSS, and ThemeLeaf, ensuring a responsive and engaging user experience.
 - **Tech stack:** Spring Boot, HTML, CSS, ThemeLeaf
@@ -32,6 +33,7 @@ A polished 2D space shooter featuring interactive mechanics such as collision de
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
+
   - Developed core gameplay mechanics and player interactions using Unity and C#.
   - Implemented collision detection and diverse power-up functionalities to enhance interactivity.
   - Applied cinematic post-processing effects to achieve a commercial-ready visual presentation.
@@ -48,6 +50,7 @@ A 2D mobile dungeon crawler that features challenging puzzle-based levels, built
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
+
   - Designed and developed mobile-centric levels using Unity Tilemap while implementing robust player and enemy interactions.
   - Integrated Unity Ads to create a revenue model by rewarding players for ad interactions.
   - Managed Android deployment, optimizing game performance for a diverse range of mobile devices.
@@ -64,6 +67,7 @@ A 2D "Go-up platformer" that features interesting, challenging levels, built wit
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
+
   - 1
   - 2
 - **Tech stack:** Unity, C#, Unity Tilemap
