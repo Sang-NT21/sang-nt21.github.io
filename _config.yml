@@ -4,4 +4,5 @@ logo: /assets/img/profile-picture.jpeg
 description: Bookmark this to keep an eye on my project updates!
 email: sangnt1321@gmail.com
 social_links:
-    linkedin: https://www.linkedin.com/in/sang-nguyen-tan-103319329/
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/sang-nguyen-tan-103319329/
