@@ -29,28 +29,53 @@
 
 A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups (triple shot, laser beam, shield) to deliver an engaging gameplay experience.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Role:**: Game Developer / Game Designer
+
+**Responsibilities:**
+  Developed core gameplay mechanics and player interactions using Unity and C#.
+  Implemented collision detection and diverse power-up functionalities to enhance interactivity.
+  Applied cinematic post-processing effects to achieve a commercial-ready visual presentation.
+
+**Tech stack:** Unity, C#, Unity API
+
+**Team size:** 1 (Individual Project)
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Project's Name
+### Dungeon Escape - 2D Mobile Dungeon Crawler
 
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+A 2D mobile dungeon crawler that features challenging puzzle-based levels, built with Unity's Tilemap system, and leverages monetization models through integrated Unity Ads.
+
+**Role:**: Game Developer / Game Designer
+
+**Responsibilities:**
+  Designed and developed mobile-centric levels using Unity Tilemap while implementing robust player and enemy interactions.
+  Integrated Unity Ads to create a revenue model by rewarding players for ad interactions.
+  Managed Android deployment, optimizing game performance for a diverse range of mobile devices.
+
+**Tech stack:** Unity, C#, Unity Tilemap, Unity Ads, Android Studio
+
+**Team size:** 1 (Individual Project)
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
+### Space Gravity Adventure – 2D Platformer
+
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
+A 2D "Go-up platformer" that features interesting, challenging levels, built with Unity's Tilemap system, and leverages monetization models through integrated Unity Ads.
+
+**Role:**: Game Developer / Game Designer
+
+**Responsibilities:**
+
+**Tech stack:** Unity, C#, Unity Tilemap
+
+**Team size:** 1 (Individual Project)
+
 ## Talks & Lectures
-
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 
