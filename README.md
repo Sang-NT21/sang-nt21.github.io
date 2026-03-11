@@ -29,9 +29,10 @@
 
 A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups (triple shot, laser beam, shield) to deliver an engaging gameplay experience.
 
-**Role:**: Game Developer / Game Designer
+**Role:** Game Developer / Game Designer
 
 **Responsibilities:**
+
   Developed core gameplay mechanics and player interactions using Unity and C#.
   Implemented collision detection and diverse power-up functionalities to enhance interactivity.
   Applied cinematic post-processing effects to achieve a commercial-ready visual presentation.
@@ -48,9 +49,10 @@ A polished 2D space shooter featuring interactive mechanics such as collision de
 
 A 2D mobile dungeon crawler that features challenging puzzle-based levels, built with Unity's Tilemap system, and leverages monetization models through integrated Unity Ads.
 
-**Role:**: Game Developer / Game Designer
+**Role:** Game Developer / Game Designer
 
 **Responsibilities:**
+
   Designed and developed mobile-centric levels using Unity Tilemap while implementing robust player and enemy interactions.
   Integrated Unity Ads to create a revenue model by rewarding players for ad interactions.
   Managed Android deployment, optimizing game performance for a diverse range of mobile devices.
@@ -67,7 +69,7 @@ A 2D mobile dungeon crawler that features challenging puzzle-based levels, built
 
 A 2D "Go-up platformer" that features interesting, challenging levels, built with Unity's Tilemap system, and leverages monetization models through integrated Unity Ads.
 
-**Role:**: Game Developer / Game Designer
+**Role:** Game Developer / Game Designer
 
 **Responsibilities:**
 
