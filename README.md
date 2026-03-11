@@ -25,7 +25,8 @@
 
 ### Galaxy Shooter – 2D Space Shooter Game
 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
+![Screenshots](/assets/img/eeg_band_discovery.jpeg)
 
 A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups (triple shot, laser beam, shield) to deliver an engaging gameplay experience.
 
@@ -33,19 +34,18 @@ A polished 2D space shooter featuring interactive mechanics such as collision de
 
 **Responsibilities:**
 
-    - Developed core gameplay mechanics and player interactions using Unity and C#.
-    - Implemented collision detection and diverse power-up functionalities to enhance interactivity.
-    - Applied cinematic post-processing effects to achieve a commercial-ready visual presentation.
+- Developed core gameplay mechanics and player interactions using Unity and C#.
+- Implemented collision detection and diverse power-up functionalities to enhance interactivity.
+- Applied cinematic post-processing effects to achieve a commercial-ready visual presentation.
 
 **Tech stack:** Unity, C#, Unity API
 
 **Team size:** 1 (Individual Project)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### Dungeon Escape - 2D Mobile Dungeon Crawler
 
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Demo Video](https://www.mdpi.com/1424-8220/22/11/4240)
+![Screenshots](/assets/img/eeg_band_discovery.jpeg)
 
 A 2D mobile dungeon crawler that features challenging puzzle-based levels, built with Unity's Tilemap system, and leverages monetization models through integrated Unity Ads.
 
@@ -53,19 +53,18 @@ A 2D mobile dungeon crawler that features challenging puzzle-based levels, built
 
 **Responsibilities:**
 
-    - Designed and developed mobile-centric levels using Unity Tilemap while implementing robust player and enemy interactions.
-    - Integrated Unity Ads to create a revenue model by rewarding players for ad interactions.
-    - Managed Android deployment, optimizing game performance for a diverse range of mobile devices.
+- Designed and developed mobile-centric levels using Unity Tilemap while implementing robust player and enemy interactions.
+- Integrated Unity Ads to create a revenue model by rewarding players for ad interactions.
+- Managed Android deployment, optimizing game performance for a diverse range of mobile devices.
 
 **Tech stack:** Unity, C#, Unity Tilemap, Unity Ads, Android Studio
 
 **Team size:** 1 (Individual Project)
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
 ### Space Gravity Adventure – 2D Platformer
 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
+![Screenshots](/assets/img/eeg_band_discovery.jpeg)
 
 A 2D "Go-up platformer" that features interesting, challenging levels, built with Unity's Tilemap system, and leverages monetization models through integrated Unity Ads.
 
