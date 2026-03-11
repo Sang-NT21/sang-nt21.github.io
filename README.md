@@ -15,6 +15,7 @@
 
 - **Role:** Front End Developer
 - **Responsibilities:**
+
   - Contributed to the development of a robust blogging platform built on Spring Boot.
   - Developed and styled dynamic UI elements using HTML, CSS, and ThemeLeaf, ensuring a responsive and engaging user experience.
 - **Tech stack:** Spring Boot, HTML, CSS, ThemeLeaf
@@ -31,12 +32,15 @@
 A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups (triple shot, laser beam, shield) to deliver an engaging gameplay experience.
 
 **Role:** Game Developer / Game Designer
+
 **Responsibilities:**
 
 - Developed core gameplay mechanics and player interactions using Unity and C#.
 - Implemented collision detection and diverse power-up functionalities to enhance interactivity.
 - Applied cinematic post-processing effects to achieve a commercial-ready visual presentation.
+
 **Tech stack:** Unity, C#, Unity API
+
 **Team size:** 1 (Individual Project)
 
 ### Dungeon Escape - 2D Mobile Dungeon Crawler
@@ -53,6 +57,7 @@ A 2D mobile dungeon crawler that features challenging puzzle-based levels, built
 - Designed and developed mobile-centric levels using Unity Tilemap while implementing robust player and enemy interactions.
 - Integrated Unity Ads to create a revenue model by rewarding players for ad interactions.
 - Managed Android deployment, optimizing game performance for a diverse range of mobile devices.
+
 **Tech stack:** Unity, C#, Unity Tilemap, Unity Ads, Android Studio
 **Team size:** 1 (Individual Project)
 
@@ -65,9 +70,11 @@ A 2D mobile dungeon crawler that features challenging puzzle-based levels, built
 A 2D "Go-up platformer" that features interesting, challenging levels, built with Unity's Tilemap system, and leverages monetization models through integrated Unity Ads.
 
 **Role:** Game Developer / Game Designer
+
 **Responsibilities:**
 
 **Tech stack:** Unity, C#, Unity Tilemap
+
 **Team size:** 1 (Individual Project)
 
 ## Talks & Lectures
