@@ -61,7 +61,7 @@ A 2D mobile dungeon crawler that features challenging puzzle-based levels, built
 
 [Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
 
-![Screenshots](/assets/img/eeg_band_discovery.jpeg)
+![Screenshots](/assets/img/2DPlatformer.png)
 
 A 2D "Go-up platformer" that features interesting, challenging levels, built with Unity's Tilemap system, and leverages monetization models through integrated Unity Ads.
 
