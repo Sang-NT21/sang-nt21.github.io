@@ -29,7 +29,7 @@ Developed an interactive blogging platform that delivers a dynamic and responsiv
 
 ![Screenshots](/assets/img/3DFPS.png)
 
-A complete 3D FPS experience featuring enemy AI, level design, particle effects, and a fully interactive UI. Built from graybox to final art pass, incorporating modern FPS mechanics and Unity best practices.
+A complete 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. Built from graybox to final art pass, incorporating modern FPS mechanics and Unity best practices.
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
@@ -49,14 +49,15 @@ A complete 3D FPS experience featuring enemy AI, level design, particle effects,
 
 ![Screenshots](/assets/img/eeg_band_discovery.jpeg)
 
-A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups (triple shot, laser beam, shield) to deliver an engaging gameplay experience.
+A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups to deliver an engaging gameplay experience.
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
 
-  - Developed core gameplay mechanics and player interactions using Unity and C#.
-  - Implemented collision detection and diverse power-up functionalities to enhance interactivity.
-  - Applied cinematic post-processing effects to achieve a commercial-ready visual presentation.
+  - Built core gameplay systems: player movement, shooting, enemy waves, and damage logic.
+  - Implemented collision detection and multiple power‑ups (triple shot, speed boost, shield).
+  - Added polished visuals using Unity’s post‑processing stack for a commercial‑ready feel.
+  - Designed UI elements including score, lives, and power‑up indicators.
 - **Tech stack:** Unity, C#, Unity API, 2D Physics, Post‑Processing Stack
 - **Team size:** 1 (Individual Project)
 
