@@ -100,6 +100,6 @@ A 2D mobile dungeon crawler that features challenging puzzle-based levels, built
 - **Team size:** 1 (Individual Project)
 -->
 
-## Talks & Lectures
+<!--## Talks & Lectures-->
 
-## Publications
+<!--## Publications-->
