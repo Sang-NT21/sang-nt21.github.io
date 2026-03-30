@@ -43,24 +43,6 @@ A complete 3D FPS experience featuring enemy AI, particle effects, fully interac
 - **Tech stack:** Unity, C#, ProBuilder, NavMesh, Particle System, Unity Audio Mixer, 3D Asset Pipeline
 - **Team size:** 1 (Individual Project)
 
-### Galaxy Shooter – 2D Space Shooter Game
-
-[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
-
-![Screenshots](/assets/img/eeg_band_discovery.jpeg)
-
-A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups to deliver an engaging gameplay experience.
-
-- **Role:** Game Developer / Game Designer
-- **Responsibilities:**
-
-  - Built core gameplay systems: player movement, shooting, enemy waves, and damage logic.
-  - Implemented collision detection and multiple power‑ups (triple shot, speed boost, shield).
-  - Added polished visuals using Unity’s post‑processing stack for a commercial‑ready feel.
-  - Designed UI elements including score, lives, and power‑up indicators.
-- **Tech stack:** Unity, C#, Unity API, 2D Physics, Post‑Processing Stack
-- **Team size:** 1 (Individual Project)
-
 ### Space Gravity Adventure – 2D Platformer
 
 [Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -79,6 +61,24 @@ A physics‑driven 2D platformer built in Unity, featuring gravity‑based movem
   - Utilized the Unity Input System for responsive and customizable player controls.
   - Leveraged prefabs to build reusable gameplay elements such as platforms, hazards, collectibles, and enemies.
 - **Tech stack:** Unity, C#, Tilemap System, Animator, Unity Input System
+- **Team size:** 1 (Individual Project)
+
+### Galaxy Shooter – 2D Space Shooter Game
+
+[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
+
+![Screenshots](/assets/img/eeg_band_discovery.jpeg)
+
+A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups to deliver an engaging gameplay experience.
+
+- **Role:** Game Developer / Game Designer
+- **Responsibilities:**
+
+  - Built core gameplay systems: player movement, shooting, enemy waves, and damage logic.
+  - Implemented collision detection and multiple power‑ups (triple shot, speed boost, shield).
+  - Added polished visuals using Unity’s post‑processing stack for a commercial‑ready feel.
+  - Designed UI elements including score, lives, and power‑up indicators.
+- **Tech stack:** Unity, C#, Unity API, 2D Physics, Post‑Processing Stack
 - **Team size:** 1 (Individual Project)
 
 <!--
