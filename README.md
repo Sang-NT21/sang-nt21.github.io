@@ -67,14 +67,18 @@ A polished 2D space shooter featuring interactive mechanics such as collision de
 
 ![Screenshots](/assets/img/2DPlatformer.png)
 
-A 2D "Go-up platformer" that features interesting, challenging levels, built with Unity's Tilemap system, and leverages monetization models through integrated Unity Ads.
+A physics‑driven 2D platformer built in Unity, featuring gravity‑based movement, tilemap‑designed levels, animated characters, and interactive hazards.
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
 
-  - 1
-  - 2
-- **Tech stack:** Unity, C#, Unity Tilemap
+  - Designed levels using Unity’s Tilemap System, incorporating rule tiles, animated tiles, and environment hazards.
+  - Implemented core 2D platformer mechanics including movement, jumping, gravity‑based interactions, and collision handling.
+  - Followed Unity best practices for project structure, asset organization, and clean C# scripting.
+  - Created character animations and built state‑based transitions using the Animator and animation controllers.
+  - Utilized the Unity Input System for responsive and customizable player controls.
+  - Leveraged prefabs to build reusable gameplay elements such as platforms, hazards, collectibles, and enemies.
+- **Tech stack:** Unity, C#, Tilemap System, Animator, Unity Input System
 - **Team size:** 1 (Individual Project)
 
 <!--
