@@ -29,15 +29,18 @@ Developed an interactive blogging platform that delivers a dynamic and responsiv
 
 ![Screenshots](/assets/img/3DFPS.png)
 
-A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups (triple shot, laser beam, shield) to deliver an engaging gameplay experience.
+A complete 3D FPS experience featuring enemy AI, level design, particle effects, and a fully interactive UI. Built from graybox to final art pass, incorporating modern FPS mechanics and Unity best practices.
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
 
-  - Developed core gameplay mechanics and player interactions using Unity and C#.
-  - Implemented collision detection and diverse power-up functionalities to enhance interactivity.
-  - Applied cinematic post-processing effects to achieve a commercial-ready visual presentation.
-- **Tech stack:** Unity, C#, Unity API
+  - Developed FPS mechanics including movement, shooting, weapon handling, and enemy interactions.
+  - Designed and grayboxed a full 3D level using ProBuilder, then refined it with an art pass.
+  - Created particle effects (muzzle flashes, explosions) and integrated dynamic audio via Unity Audio Mixer.
+  - Followed clean coding practices with modular scripts and reusable systems.
+  - Implemented enemy AI using NavMesh for navigation, patrols, and chase behaviors.
+  - Built gameplay UI elements such as crosshair, ammo display, health bar, and game‑over screens.
+- **Tech stack:** Unity, C#, ProBuilder, NavMesh, Particle System, Unity Audio Mixer, 3D Asset Pipeline
 - **Team size:** 1 (Individual Project)
 
 ### Galaxy Shooter – 2D Space Shooter Game
@@ -54,7 +57,7 @@ A polished 2D space shooter featuring interactive mechanics such as collision de
   - Developed core gameplay mechanics and player interactions using Unity and C#.
   - Implemented collision detection and diverse power-up functionalities to enhance interactivity.
   - Applied cinematic post-processing effects to achieve a commercial-ready visual presentation.
-- **Tech stack:** Unity, C#, Unity API
+- **Tech stack:** Unity, C#, Unity API, 2D Physics, Post‑Processing Stack
 - **Team size:** 1 (Individual Project)
 
 ### Space Gravity Adventure – 2D Platformer
