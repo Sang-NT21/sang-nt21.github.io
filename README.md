@@ -23,7 +23,7 @@ Developed an interactive blogging platform that delivers a dynamic and responsiv
 
 ## Projects
 
-### 3D FPS – 3D FPS Shooter Game
+### Space Pests – 3D FPS Shooter Game
 
 [Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
 
@@ -63,7 +63,7 @@ A physics‑driven 2D platformer built in Unity, featuring gravity‑based movem
 - **Tech stack:** Unity, C#, Tilemap System, Animator, Unity Input System
 - **Team size:** 1 (Individual Project)
 
-### Galaxy Shooter – 2D Space Shooter Game
+### Space Shooter Pro – 2D Space Shooter Game
 
 [Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
 
