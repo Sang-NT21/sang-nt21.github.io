@@ -7,23 +7,9 @@
 - M.S., Software Engineering | FPT School of Business & Technology (_November 2025_)
 - B.S., Software Engineering | FPT University Ho Chi Minh City (_February 2023_)
 
-## Work Experience
-
-**Front End Web Developer Intern @ FPT Software (_January 2021 - May 2021_)**
-
-Developed an interactive blogging platform that delivers a dynamic and responsive user experience, leveraging a robust backend framework.
-
-- **Role:** Front End Developer
-- **Responsibilities:**
-
-  - Contributed to the development of a robust blogging platform built on Spring Boot.
-  - Developed and styled dynamic UI elements using HTML, CSS, and ThemeLeaf, ensuring a responsive and engaging user experience.
-- **Tech stack:** Spring Boot, HTML, CSS, ThemeLeaf
-- **Team size:** 3 members
-
 ## Projects
 
-### Space Pests – 3D FPS Shooter Game
+### -- Space Pests – 3D FPS Shooter Game --
 
 <!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
 
@@ -43,7 +29,7 @@ A 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. 
 - **Tech stack:** Unity, C#, ProBuilder, NavMesh, Particle System, Unity Audio Mixer, 3D Asset Pipeline
 - **Team size:** 1 (Individual Project)
 
-### Space Gravity Adventure – 2D Platformer
+### -- Space Gravity Adventure – 2D Platformer --
 
 <!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
 
@@ -63,7 +49,7 @@ A physics‑driven 2D platformer built in Unity, featuring gravity‑based movem
 - **Tech stack:** Unity, C#, Tilemap System, Animator, Unity Input System
 - **Team size:** 1 (Individual Project)
 
-### Space Shooter Pro – 2D Space Shooter Game
+### -- Space Shooter Pro – 2D Space Shooter Game --
 
 <!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
 
@@ -103,3 +89,16 @@ A 2D mobile dungeon crawler that features challenging puzzle-based levels, built
 <!--## Talks & Lectures-->
 
 <!--## Publications-->
+## Work Experience
+
+**Front End Web Developer Intern @ FPT Software (_January 2021 - May 2021_)**
+
+Developed an interactive blogging platform that delivers a dynamic and responsive user experience, leveraging a robust backend framework.
+
+- **Role:** Front End Developer
+- **Responsibilities:**
+
+  - Contributed to the development of a robust blogging platform built on Spring Boot.
+  - Developed and styled dynamic UI elements using HTML, CSS, and ThemeLeaf, ensuring a responsive and engaging user experience.
+- **Tech stack:** Spring Boot, HTML, CSS, ThemeLeaf
+- **Team size:** 3 members
