@@ -25,11 +25,11 @@ Developed an interactive blogging platform that delivers a dynamic and responsiv
 
 ### Space Pests – 3D FPS Shooter Game
 
-[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
+<!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
 
 ![Screenshots](/assets/img/3DFPS.png)
 
-A complete 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. Built from graybox to final art pass, incorporating modern FPS mechanics and Unity best practices.
+A 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. Built from graybox to final art pass, incorporating modern FPS mechanics and Unity best practices.
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
@@ -45,7 +45,7 @@ A complete 3D FPS experience featuring enemy AI, particle effects, fully interac
 
 ### Space Gravity Adventure – 2D Platformer
 
-[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
+<!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
 
 ![Screenshots](/assets/img/2DPlatformer.png)
 
@@ -65,9 +65,9 @@ A physics‑driven 2D platformer built in Unity, featuring gravity‑based movem
 
 ### Space Shooter Pro – 2D Space Shooter Game
 
-[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)
+<!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
 
-![Screenshots](/assets/img/eeg_band_discovery.jpeg)
+![Screenshots](/assets/img/space_shooter_pro.png)
 
 A polished 2D space shooter featuring interactive mechanics such as collision detection and diverse power-ups to deliver an engaging gameplay experience.
 
