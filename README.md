@@ -12,6 +12,7 @@
 ### Space Pests – 3D FPS Shooter Game
 
 <!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
+[PLay Here](https://dopaminets.itch.io/3d-fps)
 
 ![Screenshots](/assets/img/3DFPS.png)
 
@@ -31,7 +32,8 @@ A 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. 
 
 ### Space Gravity Adventure – 2D Platformer
 
-#### [Demo Video](https://youtu.be/teDItJtNND4)
+[Demo Video](https://youtu.be/teDItJtNND4)
+[PLay Here](https://dopaminets.itch.io/spacegravityadventure)
 
 ![Screenshots](/assets/img/2DPlatformer.png)
 
@@ -52,6 +54,7 @@ A physics‑driven 2D platformer built in Unity, featuring gravity‑based movem
 ### Space Shooter Pro – 2D Space Shooter Game
 
 <!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
+[PLay Here](https://dopaminets.itch.io/space-shooter-pro)
 
 ![Screenshots](/assets/img/space_shooter_pro.png)
 
