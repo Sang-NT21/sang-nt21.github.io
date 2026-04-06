@@ -31,7 +31,7 @@ A 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. 
 
 ### -- Space Gravity Adventure – 2D Platformer --
 
-<!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
+[Demo Video](https://youtu.be/teDItJtNND4)
 
 ![Screenshots](/assets/img/2DPlatformer.png)
 
