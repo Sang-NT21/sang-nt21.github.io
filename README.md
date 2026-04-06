@@ -9,7 +9,7 @@
 
 ## Projects
 
-### -- Space Pests – 3D FPS Shooter Game --
+### Space Pests – 3D FPS Shooter Game
 
 <!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
 
@@ -29,7 +29,7 @@ A 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. 
 - **Tech stack:** Unity, C#, ProBuilder, NavMesh, Particle System, Unity Audio Mixer, 3D Asset Pipeline
 - **Team size:** 1 (Individual Project)
 
-### -- Space Gravity Adventure – 2D Platformer --
+### Space Gravity Adventure – 2D Platformer
 
 #### [Demo Video](https://youtu.be/teDItJtNND4)
 
@@ -49,7 +49,7 @@ A physics‑driven 2D platformer built in Unity, featuring gravity‑based movem
 - **Tech stack:** Unity, C#, Tilemap System, Animator, Unity Input System
 - **Team size:** 1 (Individual Project)
 
-### -- Space Shooter Pro – 2D Space Shooter Game --
+### Space Shooter Pro – 2D Space Shooter Game
 
 <!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
 
