@@ -89,7 +89,7 @@ A 2D mobile dungeon crawler that features challenging puzzle-based levels, built
 <!--## Talks & Lectures-->
 
 <!--## Publications-->
-## Work Experience
+<!--## Work Experience
 
 **Front End Web Developer Intern @ FPT Software (_January 2021 - May 2021_)**
 
@@ -102,3 +102,4 @@ Developed an interactive blogging platform that delivers a dynamic and responsiv
   - Developed and styled dynamic UI elements using HTML, CSS, and ThemeLeaf, ensuring a responsive and engaging user experience.
 - **Tech stack:** Spring Boot, HTML, CSS, ThemeLeaf
 - **Team size:** 3 members
+-->
