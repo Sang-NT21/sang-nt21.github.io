@@ -11,7 +11,7 @@
 
 ### Space Pests – 3D FPS Shooter Game
 
-[Demo Video](hhttps://youtu.be/m68GWVC-1B8)
+[Demo Video](https://youtu.be/m68GWVC-1B8)
 
 [PLay Here](https://dopaminets.itch.io/3d-fps)
 
