@@ -55,7 +55,8 @@ A physics‑driven 2D platformer built in Unity, featuring gravity‑based movem
 
 ### Space Shooter Pro – 2D Space Shooter Game
 
-<!--[Demo Video](https://www.mdpi.com/1424-8220/22/8/3048)-->
+[Demo Video](https://youtu.be/jQ_JmRz85dc)
+
 [PLay Here](https://dopaminets.itch.io/space-shooter-pro)
 
 ![Screenshots](/assets/img/space_shooter_pro.png)
