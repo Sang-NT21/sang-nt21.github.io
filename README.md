@@ -17,7 +17,7 @@
 
 ![Screenshots](/assets/img/Playable_Ads.png)
 
-I created a complete playable ad experience using Unity, focusing on performance, file size, and mobile browser compatibility. The initial build was 30.8 MB, which I reduced to 5.79 MB through a series of targeted optimizations:
+I created a complete playable ad experience using Unity, focusing on performance, file size, and mobile browser compatibility. The initial build was 30.8 MB, which I reduced to 5 MB through a series of targeted optimizations:
 
 - **Role:** Unity Playable Ads Developer
 - **Responsibilities:**
