@@ -9,6 +9,24 @@
 
 ## Projects
 
+### PLayable Ads demo - 2D Galaxy Shooter (Unity WebGL)
+
+<!--[Demo Video](https://youtu.be/m68GWVC-1B8)-->
+
+[PLay Here](https://dopaminets.itch.io/playable-ads-demo-space-shooter)
+
+![Screenshots](/assets/img/Playable_Ads.png)
+
+I created a complete playable ad experience using Unity, focusing on performance, file size, and mobile browser compatibility. The build was reduced to 5.79 MB through a series of targeted optimizations:
+
+- **Role:** Unity Playable Ads Developer
+- **Responsibilities:**
+
+  - Implemented custom Sprite Atlas compression, Brotli build pipeline, and particle‑based VFX to achieve <3 MB ZIP size suitable for major ad networks.
+  - eplaced heavy frame‑based animations with GPU‑efficient particle systems, improving performance and reducing .data size by over 60%.
+  - Delivered a production‑ready playable ad without third‑party tools (e.g., Luna), handling all build, optimization, and debugging steps manually.
+- **Team size:** 1 (Individual Project)
+
 ### Space Pests – 3D FPS Shooter Game
 
 [Demo Video](https://youtu.be/m68GWVC-1B8)
