@@ -17,14 +17,21 @@
 
 ![Screenshots](/assets/img/Playable_Ads.png)
 
-I created a complete playable ad experience using Unity, focusing on performance, file size, and mobile browser compatibility. The build was reduced to 5.79 MB through a series of targeted optimizations:
+I created a complete playable ad experience using Unity, focusing on performance, file size, and mobile browser compatibility. The initial build was 30.8 MB, which I reduced to 5.79 MB through a series of targeted optimizations:
 
 - **Role:** Unity Playable Ads Developer
 - **Responsibilities:**
 
-  - Implemented custom Sprite Atlas compression, Brotli build pipeline, and particle‑based VFX to achieve <3 MB ZIP size suitable for major ad networks.
-  - eplaced heavy frame‑based animations with GPU‑efficient particle systems, improving performance and reducing .data size by over 60%.
-  - Delivered a production‑ready playable ad without third‑party tools (e.g., Luna), handling all build, optimization, and debugging steps manually.
+  - Replaced 60‑frame explosion animations with GPU‑efficient particle systems.
+  - Built custom Sprite Atlases with ETC2 compression and Crunch settings.
+  - Converted all audio to optimized Vorbis mono clips.
+  - Enabled engine stripping and removed unused Unity modules.
+  - Disabled unnecessary services (Analytics, Ads, IAP).
+  - Switched to Brotli compression for maximum WebGL efficiency
+
+The final playable meets industry standards for Luna, Unity Ads, ironSource, and AppLovin, with a ZIP size under 3 MB and fast load times on low‑end devices.
+
+- **Tech stack:** Sprite Atlas, Particle System, Engine Stripping, Unity WebGL, C#
 - **Team size:** 1 (Individual Project)
 
 ### Space Pests – 3D FPS Shooter Game
@@ -46,7 +53,7 @@ A 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. 
   - Followed clean coding practices with modular scripts and reusable systems.
   - Implemented enemy AI using NavMesh for navigation, patrols, and chase behaviors.
   - Built gameplay UI elements such as crosshair, ammo display, health bar, and game‑over screens.
-- **Tech stack:** Unity, C#, ProBuilder, NavMesh, Particle System, Unity Audio Mixer, 3D Asset Pipeline
+- **Tech stack:** ProBuilder, NavMesh, Particle System, 3D Asset Pipeline, Unity, C#
 - **Team size:** 1 (Individual Project)
 
 ### Space Gravity Adventure – 2D Platformer
@@ -68,7 +75,7 @@ A physics‑driven 2D platformer built in Unity, featuring gravity‑based movem
   - Created character animations and built state‑based transitions using the Animator and animation controllers.
   - Utilized the Unity Input System for responsive and customizable player controls.
   - Leveraged prefabs to build reusable gameplay elements such as platforms, hazards, collectibles, and enemies.
-- **Tech stack:** Unity, C#, Tilemap System, Animator, Unity Input System
+- **Tech stack:** Tilemap System, Animator, Animation Controllers, Unity, C#
 - **Team size:** 1 (Individual Project)
 
 ### Space Shooter Pro – 2D Space Shooter Game
@@ -88,7 +95,7 @@ A polished 2D space shooter featuring interactive mechanics such as collision de
   - Implemented collision detection and multiple power‑ups (triple shot, speed boost, shield).
   - Added polished visuals using Unity’s post‑processing stack for a commercial‑ready feel.
   - Designed UI elements including score, lives, and power‑up indicators.
-- **Tech stack:** Unity, C#, Unity API, 2D Physics, Post‑Processing Stack
+- **Tech stack:** Post‑processing, UI Toolkit, Unity, C#
 - **Team size:** 1 (Individual Project)
 
 <!--
