@@ -17,7 +17,7 @@
 
 [Playground Preview](https://playground.lunalabs.io/preview/407391/551342/40eeaac4b8cf313a81955bd1cc311f8976ee8c3a8a7f16afb9752b1e4a9eb849)
 
-![Screenshots](/assets/img/Playworks.png =375x812)
+![Screenshots](/assets/img/Playworks.png)
 
 ![Screenshots](/assets/img/PlayworksQR.jpg)
 
