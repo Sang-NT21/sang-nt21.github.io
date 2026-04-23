@@ -11,7 +11,7 @@
 
 ### PLayable Ads Demo (Luna Unity Playworks) - Galaxy Shooter
 
-[Demo Video](https://www.youtube.com/watch?v=x5GkI-XjmoE&t=3s)
+[Demo Video](https://youtu.be/KzgIHKkZCbA)
 
 [PLay Here](https://dopaminets.itch.io/luna-framework-demo)
 
