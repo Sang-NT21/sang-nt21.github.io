@@ -9,6 +9,35 @@
 
 ## Projects
 
+### PLayable Ads Demo (Luna Unity Playworks) - Galaxy Shooter
+
+[Demo Video](https://www.youtube.com/watch?v=x5GkI-XjmoE&t=3s)
+
+[PLay Here](https://dopaminets.itch.io/luna-framework-demo)
+
+[Playground Preview](https://playground.lunalabs.io/preview/407391/551342/40eeaac4b8cf313a81955bd1cc311f8976ee8c3a8a7f16afb9752b1e4a9eb849)
+
+![Screenshots](/assets/img/Playworks.png)
+
+![Screenshots](/assets/img/PlayworksQR.png)
+
+I developed a complete playable‑ads experience in Unity, focusing on performance, file‑size reduction, and mobile‑browser compatibility. The build was optimized down to under 3 MB through targeted improvements across assets, code, and build settings.
+
+- **Role:** Unity Playable Ads Developer
+- **Responsibilities:**
+  - Integrated **Unity Playworks** to support rapid iteration, analytics‑ready structure, and collaboration with marketing teams.
+  - Implemented **Custom Events** for interaction tracking and applied **Playground Attributes** to expose tunable parameters directly in Playworks, enabling non‑technical teammates to create variations without modifying code or rebuilding.
+  - Built custom Sprite Atlases with ETC2 compression and Crunch settings.
+  - Converted all audio to optimized Vorbis mono clips.
+  - Enabled engine stripping and removed unused Unity modules.
+  - Disabled unnecessary services (Analytics, Ads, IAP).
+  - Ensured smooth performance and fast load times on low‑end mobile devices.
+
+The final playable meets industry standards for Luna, Unity Ads, ironSource, and AppLovin, achieving a ZIP size under 3 MB with stable performance across major mobile browsers.
+
+- **Tech stack:** Unity WebGL, C#, Luna Playable Ads Framework, Playworks Playground, Sprite Atlas, Particle System, Engine Stripping
+- **Team size:** 1 (Individual Project)
+
 ### PLayable Ads demo - 2D Galaxy Shooter (Unity WebGL)
 
 <!--[Demo Video](https://youtu.be/m68GWVC-1B8)-->
