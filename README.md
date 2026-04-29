@@ -1,5 +1,7 @@
 ![Screenshots](/assets/img/CV_Pic.JPG)
 
+<img scr="/assets/img/CV_Pic.JPG" alt="Profile Picture" width="300" height="300">
+
 # Unity Game Developer
 
 #### Technical Skills: Unity, C#, Git
