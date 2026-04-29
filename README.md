@@ -1,3 +1,5 @@
+![Screenshots](/assets/img/CV_Pic.JPG)
+
 # Unity Game Developer
 
 #### Technical Skills: Unity, C#, Git
