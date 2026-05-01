@@ -21,7 +21,7 @@
 
 ![PlayworksQR](/assets/img/PlayworksQR.jpg){: style="display:block; margin:auto;"}
 
-![Screenshots](/assets/img/Playworks.png){: style="display:block; margin:auto;"}
+![Screenshots](/assets/img/Playworks.png){: style="display:block; margin:auto; border-radius: 15px;"}
 
 I developed a complete playable‑ads experience in Unity, focusing on performance, file‑size reduction, and mobile‑browser compatibility. The build was optimized down to under 3 MB through targeted improvements across assets, code, and build settings.
 
@@ -40,9 +40,9 @@ The final playable meets industry standards for Luna, Unity Ads, ironSource, and
 - **Tech stack:** Unity WebGL, C#, Luna Playable Ads Framework, Playworks Playground, Sprite Atlas, Particle System, Engine Stripping
 - **Team size:** 1 (Individual Project)
 
-### PLayable Ads demo - 2D Galaxy Shooter (Unity WebGL)
+<!--### PLayable Ads demo - 2D Galaxy Shooter (Unity WebGL)
 
-<!--[Demo Video](https://youtu.be/m68GWVC-1B8)-->
+[Demo Video](https://youtu.be/m68GWVC-1B8)
 
 [PLay Here](https://dopaminets.itch.io/playable-ads-demo-space-shooter)
 
@@ -64,6 +64,7 @@ The final playable meets industry standards for Luna, Unity Ads, ironSource, and
 
 - **Tech stack:** Sprite Atlas, Particle System, Engine Stripping, Unity WebGL, C#
 - **Team size:** 1 (Individual Project)
+-->
 
 ### Space Pests – 3D FPS Shooter Game
 
