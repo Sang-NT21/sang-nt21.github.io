@@ -1,4 +1,4 @@
-![Screenshots](/assets/img/CV_Pic.JPG){: style="display:block; margin:auto;"}
+![ProfilePicture](/assets/img/CV_Pic.JPG){: style="display:block; margin:auto; border-radius: 15px;"}
 
 # Unity Developer
 
@@ -17,11 +17,11 @@
 
 [PLay Here](https://dopaminets.itch.io/luna-framework-demo)
 
-[Playground Preview](https://playground.lunalabs.io/preview/407391/551342/40eeaac4b8cf313a81955bd1cc311f8976ee8c3a8a7f16afb9752b1e4a9eb849)
+[Playground Preview](https://playground.lunalabs.io/preview/407391/551342/40eeaac4b8cf313a81955bd1cc311f8976ee8c3a8a7f16afb9752b1e4a9eb849){: style="display:block; margin:auto;"}
 
-![Screenshots](/assets/img/PlayworksQR.jpg)
+![PlayworksQR](/assets/img/PlayworksQR.jpg){: style="display:block; margin:auto;"}
 
-![Screenshots](/assets/img/Playworks.png)
+![Screenshots](/assets/img/Playworks.png){: style="display:block; margin:auto;"}
 
 I developed a complete playable‑ads experience in Unity, focusing on performance, file‑size reduction, and mobile‑browser compatibility. The build was optimized down to under 3 MB through targeted improvements across assets, code, and build settings.
 
