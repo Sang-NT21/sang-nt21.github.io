@@ -1,4 +1,4 @@
-![ProfilePicture](/assets/img/CV_Pic.JPG){: style="display:block; margin:auto; border-radius: 15px;"}
+![ProfilePicture](/assets/img/CV_Pic.JPG){: style="display:block; margin:auto; border-radius: 15px; height:300px; width:300px"}
 
 # Unity Developer
 
