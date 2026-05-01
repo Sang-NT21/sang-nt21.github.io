@@ -1,4 +1,4 @@
-![Screenshots](/assets/img/CV_Pic.JPG)
+![Screenshots](/assets/img/CV_Pic.JPG){: style="display:block; margin:auto;"}
 
 # Unity Developer
 
