@@ -2,7 +2,7 @@
 
 # Unity Developer
 
-#### Technical Skills: Unity, C#, Git
+#### Technical Skills: Unity, C#, Git, Unity Playworks (Luna)
 
 ## Education
 
