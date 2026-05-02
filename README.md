@@ -21,7 +21,7 @@
 
 ![PlayworksQR](/assets/img/PlayworksQR.jpg){: style="display:block; margin:auto;"}
 
-![Screenshots](/assets/img/Playworks.png){: style="display:block; margin:auto; border-radius: 15px;"}
+![Screenshots](/assets/img/Playworks.png){: style="display:block; margin:auto; border-radius: 15px; height:572px; width:285px"}
 
 I developed a complete playable‑ads experience in Unity, focusing on performance, file‑size reduction, and mobile‑browser compatibility. The build was optimized down to under 3 MB through targeted improvements across assets, code, and build settings.
 
