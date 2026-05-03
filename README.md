@@ -23,21 +23,19 @@
 
 ![Screenshots](/assets/img/Playworks.png){: style="display:block; margin:auto; border-radius: 15px; height:572px; width:285px"}
 
-I developed a complete playable‑ads experience in Unity, focusing on performance, file‑size reduction, and mobile‑browser compatibility. The build was optimized down to under 3 MB through targeted improvements across assets, code, and build settings.
+I developed a complete **playable‑ads** experience in Unity, focusing on **performance**, **file‑size** reduction, and mobile‑browser compatibility. The build was optimized down to **under 3 MB** through targeted improvements across assets, code, and build settings.
 
 - **Role:** Unity Playable Ads Developer
 - **Responsibilities:**
   - Integrated **Unity Playworks** to support rapid iteration, analytics‑ready structure, and collaboration with marketing teams.
   - Implemented **Custom Events** for interaction tracking and applied **Playground Attributes** to expose tunable parameters directly in Playworks, enabling non‑technical teammates to create variations without modifying code or rebuilding.
   - Built custom Sprite Atlases with ETC2 compression and Crunch settings.
-  - Converted all audio to optimized Vorbis mono clips.
-  - Enabled engine stripping and removed unused Unity modules.
-  - Disabled unnecessary services (Analytics, Ads, IAP).
-  - Ensured smooth performance and fast load times on low‑end mobile devices.
+  - Enabled **engine stripping** and removed unused Unity modules.
+  - Ensured **smooth performance** and **fast load times** on low‑end **mobile devices**.
 
-The final playable meets industry standards for Luna, Unity Ads, ironSource, and AppLovin, achieving a ZIP size under 3 MB with stable performance across major mobile browsers.
+The final playable meets **industry standards** for Luna, Unity Ads, **ironSource**, **and AppLovin**, achieving a ZIP size under 3 MB with stable performance across major mobile browsers.
 
-- **Tech stack:** Unity WebGL, C#, Luna Playable Ads Framework, Playworks Playground, Sprite Atlas, Particle System, Engine Stripping
+- **Tech stack:** Unity WebGL, C#, **Luna Playable Ads Framework**, **Playworks Playground**, **Sprite Atlas**, **Particle System**, Engine Stripping
 - **Team size:** 1 (Individual Project)
 
 <!--### PLayable Ads demo - 2D Galaxy Shooter (Unity WebGL)
@@ -74,18 +72,18 @@ The final playable meets industry standards for Luna, Unity Ads, ironSource, and
 
 ![Screenshots](/assets/img/3DFPS.png)
 
-A 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. Built from graybox to final art pass, incorporating modern FPS mechanics and Unity best practices.
+A 3D FPS experience featuring **enemy AI**, **particle effects**, fully interactive UI. Built from **graybox** to final art pass, incorporating modern FPS mechanics and Unity best practices.
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
 
   - Developed FPS mechanics including movement, shooting, weapon handling, and enemy interactions.
-  - Designed and grayboxed a full 3D level using ProBuilder, then refined it with an art pass.
-  - Created particle effects (muzzle flashes, explosions) and integrated dynamic audio via Unity Audio Mixer.
+  - Designed and grayboxed a full 3D level using **ProBuilder**, then refined it with an art pass.
+  - Created **particle effects** (muzzle flashes, explosions) and integrated dynamic audio via **Unity Audio Mixer**.
   - Followed clean coding practices with modular scripts and reusable systems.
-  - Implemented enemy AI using NavMesh for navigation, patrols, and chase behaviors.
+  - Implemented **enemy AI using NavMesh** for navigation, patrols, and chase behaviors.
   - Built gameplay UI elements such as crosshair, ammo display, health bar, and game‑over screens.
-- **Tech stack:** ProBuilder, NavMesh, Particle System, 3D Asset Pipeline, Unity, C#
+- **Tech stack:** **ProBuilder**, **NavMesh**, **Particle System**, 3D Asset Pipeline, Unity, C#
 - **Team size:** 1 (Individual Project)
 
 ### Space Gravity Adventure – 2D Platformer
@@ -96,18 +94,18 @@ A 3D FPS experience featuring enemy AI, particle effects, fully interactive UI. 
 
 ![Screenshots](/assets/img/2DPlatformer.png)
 
-A physics‑driven 2D platformer built in Unity, featuring gravity‑based movement, tilemap‑designed levels, animated characters, and interactive hazards.
+A physics‑driven 2D platformer built in Unity, featuring gravity‑based movement, **tilemap‑designed levels**, animated characters, and interactive hazards.
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
 
-  - Designed levels using Unity’s Tilemap System, incorporating rule tiles, animated tiles, and environment hazards.
+  - Designed levels using Unity’s Tilemap System, incorporating **rule tiles**, **animated tiles**, and environment hazards.
   - Implemented core 2D platformer mechanics including movement, jumping, gravity‑based interactions, and collision handling.
   - Followed Unity best practices for project structure, asset organization, and clean C# scripting.
-  - Created character animations and built state‑based transitions using the Animator and animation controllers.
+  - Created character animations and built state‑based transitions using the **Animator and animation controllers**.
   - Utilized the Unity Input System for responsive and customizable player controls.
   - Leveraged prefabs to build reusable gameplay elements such as platforms, hazards, collectibles, and enemies.
-- **Tech stack:** Tilemap System, Animator, Animation Controllers, Unity, C#
+- **Tech stack:** **Tilemap System**, Animator, Animation Controllers, Unity, C#
 - **Team size:** 1 (Individual Project)
 
 ### Space Shooter Pro – 2D Space Shooter Game
