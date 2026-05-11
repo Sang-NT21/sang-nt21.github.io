@@ -28,7 +28,7 @@ A lightweight casual game built with **Cocos Creator** and **AI‑assisted devel
   - **Responsive UI:** Designed a clean, mobile‑friendly interface with smooth transitions and feedback.
   - **Optimized performance:** Ensured stable framerate on mobile browsers through efficient asset usage and update‑loop management.
 
-- **Tech stack:** Cocos Creator, TypeScript, JavaScript
+- **Tech stack:** Cocos Creator, TypeScript, JavaScript, AI Coding Agents, Git
 - **Team size:** 1
 
 ### PLayable Ads Demo (Luna Unity Playworks) - Galaxy Shooter
