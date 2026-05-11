@@ -1,8 +1,8 @@
 ![ProfilePicture](/assets/img/CV_Pic.JPG){: style="display:block; margin:auto; border-radius: 15px; height:280px; width:280px"}
 
-# Unity Developer
+# Game Developer
 
-#### Technical Skills: Unity, C#, Git, Unity Playworks (Luna)
+#### Technical Skills: Unity, Cocos Creator, C#, TypeScript Git, Unity Playworks (Luna)
 
 ## Education
 
@@ -10,6 +10,26 @@
 - B.S., Software Engineering | FPT University Ho Chi Minh City (_February 2023_)
 
 ## Projects
+
+### Cocos Bird– Cocos Creator 2D Flappy Bird Clone
+
+<!--[Demo Video](https://youtu.be/KzgIHKkZCbA)-->
+
+[PLay Here](https://dopaminets.itch.io/cocos-bird)
+
+<!--![Screenshots](/assets/img/Playworks.png){: style="display:block; margin:auto; border-radius: 15px; height:572px; width:285px"}-->
+
+A lightweight casual game built with **Cocos Creator** and **AI‑assisted development**.
+
+- **Role:** Cocos Creator Developer
+- **Responsibilities:**
+  - Used **AI coding agents** (Copilot, Claude) to accelerate scripting, refactor logic, and generate reusable components
+  - **Core gameplay loop:** Implemented physics‑based bird movement, obstacle spawning, collision detection, and scoring logic.
+  - **Responsive UI:** Designed a clean, mobile‑friendly interface with smooth transitions and feedback.
+  - **Optimized performance:** Ensured stable framerate on mobile browsers through efficient asset usage and update‑loop management.
+
+- **Tech stack:** Cocos Creator, TypeScript, JavaScript
+- **Team size:** 1
 
 ### PLayable Ads Demo (Luna Unity Playworks) - Galaxy Shooter
 
@@ -36,7 +56,7 @@ I developed a complete **playable‑ads** experience in Unity, focusing on **per
 The final playable meets **industry standards** for Luna, Unity Ads, **ironSource**, **and AppLovin**, achieving a ZIP size under 3 MB with stable performance across major mobile browsers.
 
 - **Tech stack:** Unity WebGL, C#, **Luna Playable Ads Framework**, **Playworks Playground**, **Sprite Atlas**, **Particle System**, Engine Stripping
-- **Team size:** 1 (Individual Project)
+- **Team size:** 1
 
 <!--### PLayable Ads demo - 2D Galaxy Shooter (Unity WebGL)
 
@@ -84,7 +104,7 @@ A 3D FPS experience featuring **enemy AI**, **particle effects**, fully interact
   - Implemented **enemy AI using NavMesh** for navigation, patrols, and chase behaviors.
   - Built gameplay UI elements such as crosshair, ammo display, health bar, and game‑over screens.
 - **Tech stack:** **ProBuilder**, **NavMesh**, **Particle System**, 3D Asset Pipeline, Unity, C#
-- **Team size:** 1 (Individual Project)
+- **Team size:** 1
 
 ### Space Gravity Adventure – 2D Platformer
 
@@ -106,7 +126,7 @@ A physics‑driven 2D platformer built in Unity, featuring gravity‑based movem
   - Utilized the Unity Input System for responsive and customizable player controls.
   - Leveraged prefabs to build reusable gameplay elements such as platforms, hazards, collectibles, and enemies.
 - **Tech stack:** **Tilemap System**, Animator, Animation Controllers, Unity, C#
-- **Team size:** 1 (Individual Project)
+- **Team size:** 1
 
 ### Space Shooter Pro – 2D Space Shooter Game
 
@@ -126,7 +146,7 @@ A polished 2D space shooter featuring interactive mechanics such as collision de
   - Added polished visuals using Unity’s post‑processing stack for a commercial‑ready feel.
   - Designed UI elements including score, lives, and power‑up indicators.
 - **Tech stack:** Post‑processing, UI Toolkit, Unity, C#
-- **Team size:** 1 (Individual Project)
+- **Team size:** 1
 
 <!--
 ### Dungeon Escape - 2D Mobile Dungeon Crawler
