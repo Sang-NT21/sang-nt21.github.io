@@ -19,7 +19,7 @@
 
 [Github](https://github.com/Sang-NT21/CocosBird)
 
-![Screenshots](/assets/img/CocosBird.png)<!--{: style="display:block; margin:auto; border-radius: 15px; height:572px; width:285px"}-->
+![Screenshots](/assets/img/CocosBird.png){: style="display:block; margin:auto; border-radius: 15px; height:572px; width:285px"}
 
 A lightweight casual game built with **Cocos Creator** and **AI‑assisted development**.
 
