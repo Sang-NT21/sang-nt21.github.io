@@ -24,7 +24,7 @@ A lightweight casual game built with **Cocos Creator** and **AI‑assisted devel
 - **Role:** Cocos Creator Developer
 - **Responsibilities:**
   - Used **AI coding agents** (Copilot, Claude) to accelerate scripting, refactor logic, and generate reusable components
-  - **Core gameplay loop:** Implemented physics‑based bird movement, obstacle spawning, collision detection, and scoring logic.
+  - Core gameplay loop: Implemented **physics‑based bird movement, obstacle spawning, collision detection**, and scoring logic.
   - **Responsive UI:** Designed a clean, mobile‑friendly interface with smooth transitions and feedback.
   - **Optimized performance:** Ensured stable framerate on mobile browsers through efficient asset usage and update‑loop management.
 
