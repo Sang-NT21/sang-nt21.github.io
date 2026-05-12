@@ -2,7 +2,7 @@
 
 # Game Developer
 
-#### Technical Skills: Unity, Cocos Creator, C#, TypeScript Git, Unity Playworks (Luna)
+#### Technical Skills: Unity, Cocos Creator, C#, TypeScript, Git, Unity Playworks (Luna)
 
 ## Education
 
