@@ -13,11 +13,13 @@
 
 ### Cocos Bird– Cocos Creator 2D Flappy Bird Clone
 
-<!--[Demo Video](https://youtu.be/KzgIHKkZCbA)-->
+[Demo Video](https://youtu.be/1zB2jpvgn8s)
 
 [PLay Here](https://dopaminets.itch.io/cocos-bird)
 
-<!--![Screenshots](/assets/img/Playworks.png){: style="display:block; margin:auto; border-radius: 15px; height:572px; width:285px"}-->
+[Github](https://github.com/Sang-NT21/CocosBird)
+
+[Screenshots](/assets/img/CocosBird.png)<!--{: style="display:block; margin:auto; border-radius: 15px; height:572px; width:285px"}-->
 
 A lightweight casual game built with **Cocos Creator** and **AI‑assisted development**.
 
