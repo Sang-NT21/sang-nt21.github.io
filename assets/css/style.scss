@@ -2,3 +2,26 @@
 ---
 
 @import 'jekyll-theme-merlot';
+
+@media only screen and (min-width: 641px) {
+  div.shell {
+    width: 960px;
+  }
+
+  header,
+  footer {
+    max-width: 960px;
+  }
+
+  span.banner-fix {
+    width: 960px;
+  }
+
+  section#downloads {
+    width: 922px;
+  }
+
+  img {
+    max-width: 876px;
+  }
+}
