@@ -25,3 +25,36 @@
     max-width: 876px;
   }
 }
+
+.project-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 1.2em 0 1.6em;
+}
+
+.project-tab {
+  border: 2px solid #7c334f;
+  background: #fff6e9;
+  color: #7c334f;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.75em;
+  font-weight: bold;
+  padding: 10px 18px;
+  text-transform: uppercase;
+}
+
+.project-tab:hover {
+  background: #f6ecdf;
+  text-decoration: none;
+}
+
+.project-tab.is-active {
+  background: #7c334f;
+  color: #ece4d8;
+}
+
+.project-tab-panel[hidden] {
+  display: none;
+}

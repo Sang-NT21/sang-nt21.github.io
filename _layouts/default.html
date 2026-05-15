@@ -15,6 +15,21 @@
     <script>
       $(document).ready(function () {
         $('#main_content').headsmart()
+
+        const $tabButtons = $('[data-tab-button]')
+        const $tabPanels = $('[data-tab-panel]')
+
+        $tabButtons.on('click', function () {
+          const selectedTab = $(this).data('tab-button')
+
+          $tabButtons.removeClass('is-active').attr('aria-selected', 'false')
+          $(this).addClass('is-active').attr('aria-selected', 'true')
+
+          $tabPanels.each(function () {
+            const isSelected = $(this).data('tab-panel') === selectedTab
+            $(this).toggleClass('is-active', isSelected).prop('hidden', !isSelected)
+          })
+        })
       })
     </script>
 
