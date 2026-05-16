@@ -18,11 +18,11 @@
 
 <div class="project-tab-panel is-active" id="unity-projects" role="tabpanel" aria-labelledby="tab-unity" data-tab-panel="unity" markdown="1">
 
-### PLayable Ads Demo (Luna Unity Playworks) - Galaxy Shooter
+### Playable Ads Demo (Luna Unity Playworks) - Galaxy Shooter
 
 [Demo Video](https://youtu.be/KzgIHKkZCbA)
 
-[PLay Here](https://dopaminets.itch.io/luna-framework-demo)
+[Play Here](https://dopaminets.itch.io/luna-framework-demo)
 
 [Playground Preview](https://playground.lunalabs.io/preview/407391/551342/40eeaac4b8cf313a81955bd1cc311f8976ee8c3a8a7f16afb9752b1e4a9eb849){: style="display:block; margin:auto;"}
 
@@ -30,15 +30,15 @@
 
 ![Screenshots](/assets/img/Playworks.png){: style="display:block; margin:auto; border-radius: 15px; height:572px; width:285px"}
 
-I developed a complete **playableâ€‘ads** experience in Unity, focusing on **performance**, **fileâ€‘size** reduction, and mobileâ€‘browser compatibility. The build was optimized down to **under 3 MB** through targeted improvements across assets, code, and build settings.
+I developed a complete **playable-ads** experience in Unity, focusing on **performance**, **file-size** reduction, and mobile-browser compatibility. The build was optimized down to **under 3 MB** through targeted improvements across assets, code, and build settings.
 
 - **Role:** Unity Playable Ads Developer
 - **Responsibilities:**
-  - Integrated **Unity Playworks** to support rapid iteration, analyticsâ€‘ready structure, and collaboration with marketing teams.
-  - Implemented **Custom Events** for interaction tracking and applied **Playground Attributes** to expose tunable parameters directly in Playworks, enabling nonâ€‘technical teammates to create variations without modifying code or rebuilding.
+  - Integrated **Unity Playworks** to support rapid iteration, analytics-ready structure, and collaboration with marketing teams.
+  - Implemented **Custom Events** for interaction tracking and applied **Playground Attributes** to expose tunable parameters directly in Playworks, enabling non-technical teammates to create variations without modifying code or rebuilding.
   - Built custom Sprite Atlases with ETC2 compression and Crunch settings.
   - Enabled **engine stripping** and removed unused Unity modules.
-  - Ensured **smooth performance** and **fast load times** on lowâ€‘end **mobile devices**.
+  - Ensured **smooth performance** and **fast load times** on low-end **mobile devices**.
 
 The final playable meets **industry standards** for Luna, Unity Ads, **ironSource**, and AppLovin, achieving a ZIP size under 3 MB with stable performance across major mobile browsers.
 
@@ -71,7 +71,7 @@ The final playable meets industry standards for Luna, Unity Ads, ironSource, and
 - **Team size:** 1 (Individual Project)
 -->
 
-### Space Pests â€“ 3D FPS Shooter Game
+### Space Pests - 3D FPS Shooter Game
 
 [Demo Video](https://youtu.be/m68GWVC-1B8)
 
@@ -88,38 +88,38 @@ A 3D FPS experience featuring **enemy AI**, **particle effects**, fully interact
   - Created **particle effects** (muzzle flashes, explosions) and integrated dynamic audio via **Unity Audio Mixer**.
   - Followed clean coding practices with modular scripts and reusable systems.
   - Implemented **enemy AI using NavMesh** for navigation, patrols, and chase behaviors.
-  - Built gameplay UI elements such as crosshair, ammo display, health bar, and gameâ€‘over screens.
+  - Built gameplay UI elements such as crosshair, ammo display, health bar, and game-over screens.
 
 - **Tech stack:** **ProBuilder**, **NavMesh**, **Particle System**, 3D Asset Pipeline, Unity, C#
 - **Team size:** 1
 
-### Space Gravity Adventure â€“ 2D Platformer
+### Space Gravity Adventure - 2D Platformer
 
 [Demo Video](https://youtu.be/teDItJtNND4)
 
-[PLay Here](https://dopaminets.itch.io/spacegravityadventure)
+[Play Here](https://dopaminets.itch.io/spacegravityadventure)
 
 ![Screenshots](/assets/img/2DPlatformer.png)
 
-A physicsâ€‘driven 2D platformer built in Unity, featuring gravityâ€‘based movement, **tilemapâ€‘designed levels**, animated characters, and interactive hazards.
+A physics-driven 2D platformer built in Unity, featuring gravity-based movement, **tilemap-designed levels**, animated characters, and interactive hazards.
 
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
-  - Designed levels using Unityâ€™s Tilemap System, incorporating **rule tiles**, **animated tiles**, and environment hazards.
-  - Implemented core 2D platformer mechanics including movement, jumping, gravityâ€‘based interactions, and collision handling.
+  - Designed levels using Unity's Tilemap System, incorporating **rule tiles**, **animated tiles**, and environment hazards.
+  - Implemented core 2D platformer mechanics including movement, jumping, gravity-based interactions, and collision handling.
   - Followed Unity best practices for project structure, asset organization, and clean C# scripting.
-  - Created character animations and built stateâ€‘based transitions using the **Animator and animation controllers**.
+  - Created character animations and built state-based transitions using the **Animator and animation controllers**.
   - Utilized the Unity Input System for responsive and customizable player controls.
   - Leveraged prefabs to build reusable gameplay elements such as platforms, hazards, collectibles, and enemies.
 
 - **Tech stack:** **Tilemap System**, Animator, Animation Controllers, Unity, C#
 - **Team size:** 1
 
-### Space Shooter Pro â€“ 2D Space Shooter Game
+### Space Shooter Pro - 2D Space Shooter Game
 
 [Demo Video](https://youtu.be/jQ_JmRz85dc)
 
-[PLay Here](https://dopaminets.itch.io/space-shooter-pro)
+[Play Here](https://dopaminets.itch.io/space-shooter-pro)
 
 ![Screenshots](/assets/img/space_shooter_pro.png)
 
@@ -128,9 +128,9 @@ A polished 2D space shooter featuring interactive mechanics such as collision de
 - **Role:** Game Developer / Game Designer
 - **Responsibilities:**
   - Built core gameplay systems: player movement, shooting, enemy waves, and damage logic.
-  - Implemented collision detection and multiple powerâ€‘ups (triple shot, speed boost, shield).
-  - Added polished visuals using Unityâ€™s postâ€‘processing stack for a commercialâ€‘ready feel.
-  - Designed UI elements including score, lives, and powerâ€‘up indicators.
+  - Implemented collision detection and multiple power-ups (triple shot, speed boost, shield).
+  - Added polished visuals using Unity's post-processing stack for a commercial-ready feel.
+  - Designed UI elements including score, lives, and power-up indicators.
 
 - **Tech stack:** Post-processing, UI Toolkit, Unity, C#
 - **Team size:** 1
@@ -139,24 +139,24 @@ A polished 2D space shooter featuring interactive mechanics such as collision de
 
 <div class="project-tab-panel" id="cocos-projects" role="tabpanel" aria-labelledby="tab-cocos" data-tab-panel="cocos" hidden markdown="1">
 
-### Cocos Birdâ€“ Cocos Creator 2D Flappy Bird Clone
+### Cocos Bird - Cocos Creator 2D Flappy Bird Clone
 
 [Demo Video](https://youtu.be/1zB2jpvgn8s)
 
-[PLay Here](https://dopaminets.itch.io/cocos-bird)
+[Play Here](https://dopaminets.itch.io/cocos-bird)
 
 [GitHub](https://github.com/Sang-NT21/CocosBird)
 
 ![Screenshots](/assets/img/CocosBird.png){: style="display:block; margin:auto; border-radius: 15px; height:572px; width:285px"}
 
-A lightweight casual game built with **Cocos Creator** and **AIâ€‘assisted development**.
+A lightweight casual game built with **Cocos Creator** and **AI-assisted development**.
 
 - **Role:** Cocos Creator Developer
 - **Responsibilities:**
-  - Used **AI coding agents** (Codex, Claude) to accelerate scripting, refactor logic, and generate reusable components
-  - Core gameplay loop: Implemented **physicsâ€‘based bird movement, obstacle spawning, collision detection**, and scoring logic.
-  - **Responsive UI:** Designed a clean, mobileâ€‘friendly interface with smooth transitions and feedback.
-  - **Optimized performance:** Ensured stable framerate on mobile browsers through efficient asset usage and updateâ€‘loop management.
+  - Used **AI coding agents** (Codex, Claude) to accelerate scripting, refactor logic, and generate reusable components.
+  - Implemented the core gameplay loop with **physics-based bird movement, obstacle spawning, collision detection**, and scoring logic.
+  - Designed a clean, mobile-friendly UI with smooth transitions and feedback.
+  - Optimized performance for stable framerate on mobile browsers through efficient asset usage and update-loop management.
 
 - **Tech stack:** Cocos Creator, TypeScript, JavaScript, AI Coding Agents, Git
 - **Team size:** 1
